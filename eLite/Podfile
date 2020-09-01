@@ -1,0 +1,16 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'eLite' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for eLite
+  pod 'SnapKit', '~> 5.0.0'
+  pod 'NVActivityIndicatorView'
+  pod 'Alamofire', :git => 'https://github.com/Alamofire/Alamofire.git', :tag => '5.0.0.beta.1'
+  pod 'Kingfisher', '~> 5.0'
+  pod 'SwiftyJSON'
+  pod 'ReachabilitySwift'
+
+end
