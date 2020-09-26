@@ -16,7 +16,7 @@ It has the following updates:
 - Unit Testing / UI Testing
 - Universal interface support (iPhone & iPad)
 
-**Used following Cocoapods **: 
+**Used following Cocoapods**: 
 
 - [Alamofire](https://github.com/Alamofire/Alamofire)
 - [Snapkit](https://github.com/SnapKit/SnapKit)
